@@ -12,7 +12,7 @@ Simple Interest = (Principal * Rate * Time) / 100
 - README.md (this file)
 - simple-interest.sh (script)
 - CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
 
+this line is added for my first merge task.
 ## Author
 Your Name
